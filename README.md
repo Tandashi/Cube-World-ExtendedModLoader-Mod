@@ -13,7 +13,7 @@ Download and setup the [Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz
 
 ## For Modders
 Provide your mods as follows:
-ModFolder (Can be named as you would like)
+- ModFolder (Can be named as you would like)
   - mod (See [modinfo](#modinfo) for further details)
   - mod.dll (can be named as you would like but has to be .dll)
 
