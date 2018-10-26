@@ -12,7 +12,7 @@ Download and setup the [Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz
 5. Now you successfully installed the ExtendedModLoader
 
 ## For Modders
-Provider your mods as follows:
+Provide your mods as follows:
 ModFolder (Can be named as you would like)
   - mod (See [modinfo](#modinfo) for further details)
   - mod.dll (can be named as you would like but has to be .dll)
