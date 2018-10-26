@@ -6,9 +6,8 @@ Download and setup the [Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz
 
 ## Installation
 1. Download the lastest version from [here](https://github.com/Tandashi/Cube-World-ExtendedModLauncher-Mod/releases)
-2. Unzip
-3. Place the `ExtendedModLoader.dll` into the `Mods` folder.
-4. Now you successfully installed the ExtendedModLoader
+2. Place the `ExtendedModLoader.dll` into the `Mods` folder.
+3. Now you successfully installed the ExtendedModLoader
 
 ## For Modders
 Provide your mods as follows:
