@@ -1,6 +1,8 @@
 # CubeWorld ExtendedModLoader Mod
 This mod allows you to list all your mods ingame, their status and some basic info. 
 
+# **NOT WORKING ANYMORE**
+
 ## Requirements
 Download and setup the [Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher).
 
